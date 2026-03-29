@@ -1,0 +1,5 @@
+{
+  "name": "VogueAI Virtual Studio",
+  "description": "A high-end fashion studio allowing users to upload clothes for virtual try-on, generate fashion concepts from scratch, and edit results using natural language.",
+  "requestFramePermissions": []
+}
